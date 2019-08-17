@@ -34,4 +34,4 @@ The required arguments are following:
 
 e.g. to run the application with 8 process on a network named ninetriangles.net, execute the following command
 
-	mpirun -n 8 ./distInfomap 1 /data/ninetriangles.net 1 1 1e-3 0.0 10 outputs/ prior
+	mpirun -n 8 ./distInfomap 1 ninetriangles.net 1 1 1e-3 0.0 10 outputs/ prior
