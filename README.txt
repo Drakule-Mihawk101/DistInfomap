@@ -9,7 +9,7 @@
 
 The required arguments are following:
 
-	1) process: the number of process you want to run your application with. (e.g. 1,2, 4,.., 128 etc. )
+	1) # process: the number of process you want to run your application with. (e.g. 1,2, 4,.., 128 etc. )
 	
 	2) seed: this is for random seed value for generating random sequential order of vertices during the iterative optimization process.
 
